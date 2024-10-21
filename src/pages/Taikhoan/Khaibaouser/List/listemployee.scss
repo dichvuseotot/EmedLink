@@ -1,0 +1,17 @@
+.focus-link-image {
+    &:hover {
+        cursor: pointer;
+        font-weight: bold;
+    }
+}
+.ant-table-wrapper .ant-table-cell-fix-right {
+    width: 100px !important;
+}
+.danhmuc thead.ant-table-thead tr {
+    line-height: 25px !important;
+}
+
+.danhmuc .ant-table-tbody>tr>td {
+    line-height: 30px;
+    border-right: 1px solid #f0f0f0;
+}

@@ -1,0 +1,126 @@
+.duyetphieudutru {
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.duyetphieudutru button {
+    font-size: 12px;
+}
+
+.duyetphieulinh_left {
+    float: left;
+    width: 25%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+
+.duyetphieulinh_title {
+    background: #0067ac;
+    color: #fff;
+    padding: 5px;
+}
+
+.duyetphieulinh_right {
+    float: left;
+    width: 75%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.duyetphieulinh_tt {
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.duyetphieulinh_tt .search .ant-form-item-label {
+    float: left;
+    width: 20%;
+    margin-top: 4px;
+}
+
+.duyetphieulinh_tt .search .ant-form-item-control {
+    float: left;
+    width: 80%;
+}
+
+.duyetphieulinh_tt .search .ant-form-item-control span {
+    float: left;
+    width: 4%;
+    text-align: center;
+    justify-content: center;
+    margin: 0px 2px;
+}
+
+.duyetphieulinh_tt .search .ant-form-item-control .date {
+    float: left;
+    width: 44%;
+    padding: 0px;
+}
+
+.duyetphieulinh_left .ant-form-item {
+    float: left;
+    width: 80%;
+}
+
+.duyetphieulinh_left button {
+    float: left;
+    width: 20%;
+    margin-top: 7px;
+}
+
+.Ketoabanle_check {
+    padding: 0px 10px;
+}
+
+.Ketoabanle_check .row>* {
+    padding: 0px 5px !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+.Ketoabanle_check .kb-checkintoa {
+    padding-right: 5px !important;
+}
+
+.duyetphieulinh_right .row>* {
+    padding: 0px 0px !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+.thongtindutru_row{
+    margin: 0px 5px;
+}
+.thongtindutru_row .row {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+
+.thongtindutru_row .lablename-ktbanle {
+    font-size: 12px;
+    float: left;
+    width: 25%;
+    text-align: right;
+    padding-right: 5px;
+}
+
+.thongtindutru_row .txtinput {
+    font-size: 12px;
+    float: left;
+    width: 75%;
+}
+
+.row-m {
+    margin-top: 5px !important;
+    margin-bottom: 5px;
+}
+.thongtindutru_row .lablename-ktbanle.ghichu {
+    width: 6.4%;
+}
+
+.thongtindutru_row .txtinput.ghichu {
+    width: 93.6%;
+}
+
+

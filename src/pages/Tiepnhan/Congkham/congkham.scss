@@ -1,0 +1,119 @@
+//title
+.tiepnhan-congkham-title {
+    background-color: #0067ac;
+    color: white;
+    font-weight: bold;
+    padding: 5px 20px;
+    border-radius: 5px;
+    font-size: 13px;
+}
+
+//icon
+.tiepcan-congkham-icon {
+    display: flex;
+
+    div {
+        border: 1px solid black;
+        margin: 0px 1px;
+        padding: 2px;
+        width: 24px;
+    }
+}
+
+//row
+.tiepnhan-congkham-row {
+    height: 22px !important;
+}
+
+//input
+.form-control-select {
+    font-size: 11px !important;
+    padding: 0 !important;
+    border-radius: none !important;
+}
+
+// lable input
+.tiepnhan-congkham-form-input-label {
+    font-size: 12px;
+    width: 80px;
+}
+
+.tiepnhan-congkham-form-input-label-right {
+    font-size: 12px;
+    width: 59px;
+}
+
+.tiepnhan-congkham-form-input-label-right-form-last {
+    font-size: 12px;
+    width: 72px;
+}
+
+//select
+.tiepnhan-congkham .ant-select-selector {
+    height: 26px !important;
+    margin: 6px 0px !important;
+}
+
+.tiepnhan-congkham .ant-select-arrow {
+    top: 65% !important;
+}
+
+input[type="search"] {
+    height: 25px !important;
+    border-radius: 0px !important;
+}
+
+.input-select .ant-select .ant-select-selector {
+    border-radius: 0px !important;
+}
+
+//
+.tiepnhan-congkham-border {
+    border-left: 1px solid rgb(182, 182, 182);
+}
+
+//
+.tiepnhan-congkham-table-ttkdk {
+    height: 20px;
+}
+
+.row-fix label {
+    margin-top: 3px;
+}
+
+.row-fix label::after {
+    content: "" !important;
+}
+
+.tiepnhan-hc label {
+    margin-top: 4px;
+}
+
+.tiepnhan-hc .w-75,
+.row-fix .date-tiepnhan-bh {
+    height: 26px;
+}
+.tiepnhan-congkham input[type="date"] {
+    line-height: 20px !important;
+}
+
+.tiepnhan-tt label {
+    margin-top: 4px;
+}
+.tiepnhan-tt .ksk {
+    width: 120px;
+}
+.tiepnhan-congkham-border .tt-bhyt{
+    padding-left:5px !important;
+    padding-right: 5px !important;
+}
+.tiepnhan-congkham .row > *{
+    padding: 0px 5px !important;
+   // margin: 0px 5px !important;
+}
+.tiepnhan-congkham-form-input-label.gioitinh{
+    width: 35px;
+}
+.mr-tn{
+    margin-left: 15px;
+}

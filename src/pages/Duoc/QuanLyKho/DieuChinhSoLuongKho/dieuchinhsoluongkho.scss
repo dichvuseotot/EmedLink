@@ -1,0 +1,65 @@
+.btn-nhapkho {
+    position: relative;
+}
+
+.btn-pos {
+    position: absolute;
+    right: 0;
+    top: -30px;
+}
+
+.btn-pos button {
+    float: left;
+}
+
+.btn-pos .form-btn {
+    padding: 10px 10px !important;
+}
+.title-nhapkho{
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px 10px;
+}
+.tt-dieuchinhslkho{
+    background: #f5f5f5;
+    padding-top: 10px;
+    padding-left: 10px;
+    display: inline-block;
+    width: 100%;
+    padding-bottom: 10px;
+}
+.tt-dieuchinhslkho .lablename-nhapkho {
+    font-size: 12px;
+    float: left;
+    width: 20%;
+    text-align: right;
+    padding-right: 5px;
+    margin-top: 5px;
+}
+
+.tt-dieuchinhslkho .txtinput {
+    font-size: 12px;
+    float: left;
+    width: 80%;
+}
+
+.tt-dieuchinhslkho .txtinput input {
+    height: 26px;
+}
+
+
+
+.tt-dieuchinhslkho .row>* {
+    padding: 0px 1px !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+.tt-dieuchinhslkho .row {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+.row-m {
+    margin-top: 5px !important;
+    margin-bottom: 5px;
+}

@@ -1,0 +1,152 @@
+.Ketoabanle {
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.Ketoabanle button {
+    font-size: 12px;
+}
+
+.Ketoabanle_left {
+    float: left;
+    width: 25%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+
+.Ketoabanle_title {
+    background: #0067ac;
+    color: #fff;
+    padding: 5px;
+}
+
+.Ketoabanle_right {
+    float: left;
+    width: 75%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.Ketoabanle_tt {
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.Ketoabanle_tt .search .ant-form-item-label {
+    float: left;
+    width: 20%;
+    margin-top: 4px;
+}
+
+.Ketoabanle_tt .search .ant-form-item-control {
+    float: left;
+    width: 80%;
+}
+
+.Ketoabanle_tt .search .ant-form-item-control span {
+    float: left;
+    width: 4%;
+    text-align: center;
+    justify-content: center;
+    margin: 0px 2px;
+}
+
+.Ketoabanle_tt .search .ant-form-item-control .date {
+    float: left;
+    width: 44%;
+    padding: 0px;
+}
+
+.Ketoabanle_left .ant-form-item {
+    float: left;
+    width: 80%;
+}
+
+.Ketoabanle_left button {
+    float: left;
+    width: 20%;
+    margin-top: 7px;
+}
+
+.Ketoabanle_check {
+    padding: 0px 10px;
+}
+
+.Ketoabanle_check .row>* {
+    padding: 0px 5px !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+.Ketoabanle_check .kb-checkintoa {
+    padding-right: 5px !important;
+}
+
+.Ketoabanle_right .row>* {
+    padding: 0px 5px !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+.thongtinbn_row .row {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+.label-name-ketoabanle {
+    font-size: 12px;
+}
+
+.thongtinbn_row .lablename-ktbanle {
+    font-size: 12px;
+    float: left;
+    width: 37%;
+    text-align: right;
+    padding-right: 5px;
+}
+
+.thongtinbn_row .txtinput {
+    font-size: 12px;
+    float: left;
+    width: 63%;
+}
+
+.row-m {
+    margin-top: 5px !important;
+    margin-bottom: 5px;
+}
+
+.thongtinbn_row .lablename-ktbanle.address {
+    width: 12%;
+}
+
+.thongtinbn_row .txtinput.address {
+    width: 88%;
+}
+
+.thongtinbn_row .lablename-ktbanle.ghichu {
+    width: 12%;
+}
+
+.thongtinbn_row .txtinput.ghichu {
+    width: 88%;
+}
+
+.table-donthuoc {
+    height: 450px;
+}
+
+.cbdonthuoc tbody tr td {
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+.searchdonthuoc .div-box-search {
+    width: 100%;
+}
+
+.searchdonthuoc .div-box-search .scroll-select-bl {
+    overflow-y: scroll;
+    max-height: 500px !important;
+}

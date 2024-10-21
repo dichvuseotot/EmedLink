@@ -1,0 +1,111 @@
+.duyettoathuoc {
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.duyettoathuoc button {
+    font-size: 12px;
+}
+
+.duyettoathuoc_left {
+    float: left;
+    width: 25%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+
+.duyettoathuoc_title {
+    background: #0067ac;
+    color: #fff;
+    padding: 5px;
+}
+
+.duyettoathuoc_right {
+    float: left;
+    width: 75%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.duyettoathuoc_tt {
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.duyettoathuoc_tt .search .ant-form-item-label {
+    float: left;
+    width: 20%;
+    margin-top: 4px;
+}
+
+.duyettoathuoc_tt .search .ant-form-item-control {
+    float: left;
+    width: 80%;
+}
+
+.duyettoathuoc_tt .search .ant-form-item-control span {
+    float: left;
+    width: 4%;
+    text-align: center;
+    justify-content: center;
+    margin: 0px 2px;
+}
+
+.duyettoathuoc_tt .search .ant-form-item-control .date {
+    float: left;
+    width: 44%;
+    padding: 0px;
+}
+
+.duyettoathuoc_left .ant-form-item {
+    float: left;
+    width: 80%;
+}
+
+.duyettoathuoc_left button {
+    float: left;
+    width: 20%;
+    margin-top: 7px;
+}
+
+.duyettoathuoc_check {
+    padding: 0px 10px;
+}
+
+.duyettoathuoc_check .row>* {
+    padding: 0px 5px !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+.duyettoathuoc_check .kb-checkintoa {
+    padding-right: 5px !important;
+}
+
+.duyettoathuoc_right .row>* {
+    padding: 0px 5px !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+.dtt_ttbn .row {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+
+.row-m {
+    margin-top: 5px !important;
+    margin-bottom: 5px;
+}
+.imglogo{
+    width: 100%;
+}
+.r_dtt{
+    font-size: 12px;
+    padding: 3px 0px;
+}
+.r_dtt .blo{
+    font-weight: bold;
+}

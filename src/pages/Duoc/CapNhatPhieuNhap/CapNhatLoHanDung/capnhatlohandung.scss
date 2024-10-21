@@ -1,0 +1,41 @@
+.thongtin_capnhatlohandung{
+    margin-top: 10px;
+    padding: 0px 10px;
+}
+.thongtin_capnhatlohandung .row>* {
+    padding: 0px 1px !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+.thongtin_capnhatlohandung .row {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+.row_capnhatlohandung .lablename-hd {
+    float: left;
+    width: 22%;
+    font-size: 12px;
+}
+.row_capnhatlohandung .txtinput {
+    float: left;
+    width: 78%;
+    font-size: 12px;
+}
+.title-capnhatlohandung{
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px 10px;
+    border-bottom: 1px solid #ccc;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 1px 10px;
+}
+
+.btn-tim .form-btn{
+    height: 20px;
+    font-size: 12px;
+    padding: 5px 15px;
+}
+.btn-tim .form-btn:hover{
+    background: #0067ac;
+    color: #fff;
+}

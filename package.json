@@ -1,0 +1,83 @@
+{
+  "name": "admin",
+  "version": "0.1.0",
+  "homepage": "http://linkemed.winsoft.com.vn",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "^5.0.1",
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@fortawesome/fontawesome-svg-core": "^6.3.0",
+    "@fortawesome/free-brands-svg-icons": "^6.4.0",
+    "@fortawesome/free-regular-svg-icons": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@react-pdf/renderer": "^3.4.4",
+    "@reduxjs/toolkit": "^1.9.3",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "antd": "^5.9.4",
+    "axios": "^1.3.4",
+    "bootstrap": "^5.3.2",
+    "chart.js": "^4.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "framer-motion": "^10.16.4",
+    "moment": "^2.30.1",
+    "rc-easyui": "^1.2.9",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.2",
+    "react-chartjs-2": "^5.2.0",
+    "react-datepicker": "^7.3.0",
+    "react-device-detect": "^2.2.3",
+    "react-dom": "^18.2.0",
+    "react-dom-camera": "^0.3.5",
+    "react-filerobot-image-editor": "^4.6.3",
+    "react-helmet": "^6.1.0",
+    "react-highlight-words": "^0.20.0",
+    "react-hook-form": "^7.49.2",
+    "react-icons": "^4.8.0",
+    "react-konva": "^18.2.10",
+    "react-public-ip": "^1.0.0",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.10.0",
+    "react-scripts": "5.0.1",
+    "react-to-print": "^2.14.15",
+    "react-toastify": "^9.1.2",
+    "react-webcam": "^7.2.0",
+    "sass": "^1.60.0",
+    "styled-components": "^6.1.11",
+    "suneditor": "^2.45.1",
+    "suneditor-react": "^3.6.1",
+    "sweetalert2": "^11.4.8",
+    "uuid": "^9.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": " react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-private-property-in-object": "^7.22.11"
+  }
+}
